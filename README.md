@@ -1,6 +1,4 @@
 # Capstone projects
-Capstone project Thinkful
-
 This repo contains 3 workbooks. 
 
 1) A small NLP project from midway through the DS course at Thinkful on AirBnB data to predict neighbourhood, 
