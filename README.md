@@ -1,4 +1,4 @@
-# Unit-7-Capstone
+# Capstone project
 Capstone project Thinkful
 
 This repo contains 2 workbooks that relate to data cleaning and analysis of biostratigraphic data from the Equinor-operated Volve oil field hosted at https://www.equinor.com/en/news/14jun2018-disclosing-volve-data.html that is now open-access. Under a release programme, Equinor allowed access to the retired Volve oilfield that was in operation off south Norway from 2008-2016. The .pdf file, <b>Thinkful_volve_presenation</b> is a presentation of the final Capstone presented to Thinkful on 14th January 2019.
